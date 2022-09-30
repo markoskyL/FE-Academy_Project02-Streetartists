@@ -2,7 +2,7 @@
 To create web space for every street artist that will allow them to be able to track their income, and to have a place on the web where they can showcase their masterpieces.
 Link to website: https://streetartists-markosky.netlify.app
 ## General Information
-* This project is part of the coding projects that i got at the Brainster bootcamp.
+* Second project i created while studying at the Brainster Front-end Academy
 
 ## Technologies
 Project is created with:
