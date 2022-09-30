@@ -17,6 +17,6 @@ Project is: finished
 * Auction page needs to be added
 
 ## Contact
-Created by @leonardo.markosky - feel free to contact me
-Email: leonardo.markosky@gmail.com
+Created by Leonardo Markovski - feel free to contact me
+* Email: leonardo.markosky@gmail.com
 
